@@ -1,0 +1,1 @@
+<script setup lang="ts">const {id} = useRoute().paramsdefinePageMeta({  layout: "products"})</script><template>  <h2>Product details for {{ id }}</h2>  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, voluptates?</p></template><style scoped></style>
